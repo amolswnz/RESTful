@@ -22,8 +22,6 @@ Other users can *Register or Unregister* from meetings. It also allows to *Read*
 * JWT Authentication
 * Token Based Authentication
 
-duplicate email check throwing error - catch this error
-
 ##Credits
 
 [Laravel](https://laravel.com/) - The PHP Framework For Web Artisans
