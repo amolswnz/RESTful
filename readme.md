@@ -28,6 +28,6 @@ Other users can *Register or Unregister* from meetings. It also allows to *Read*
 
 [Postman](https://www.getpostman.com/) - A powerful GUI platform to make your API development faster & easier, from building API requests through testing, documentation and sharing.
 
-[jwt-auth](https://github.com/tymondesigns/jwt-auth) JSON Web Token Authentication for Laravel & Lumen  
+[jwt-auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token Authentication for Laravel & Lumen  
 
 [Max Schwarzmueller](https://app.pluralsight.com/profile/author/max-schwarzmueller) - [Pluralsight](https://www.pluralsight.com/) Author
